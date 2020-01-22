@@ -1,4 +1,4 @@
-# Warsztat4 - Zadanie 10.
+# Warsztat4 - Zadanie 11.
 # -*- encoding: utf-8 -*-
 
 ile=eval(input("Wpisz ile jedynek chcesz dodać do listy: "))
